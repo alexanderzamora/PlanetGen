@@ -1,0 +1,3 @@
+Alex, remember that the given gitignore assumes that all the metafiles it should ignore are in the 
+same directory so you have to edit the .gitignore manually to ignore them in a sub-folder
+
